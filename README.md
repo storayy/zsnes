@@ -1,1 +1,1 @@
-# zsnes
+# ZSNES - SNES games emulator
